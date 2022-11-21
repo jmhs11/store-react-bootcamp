@@ -1,23 +1,41 @@
-import { useEffect, useState } from "react";
-import style from "./Home.module.css";
+import { useLoaderData } from "react-router-dom";
+import { SwiperSlide } from "swiper/react";
 import Button from "../components/Button";
 import Game from "../components/Game";
 import Grid from "../components/Grid";
 import Slider from "../components/Slider";
-import { SwiperSlide } from "swiper/react";
-import { useLoaderData } from "react-router-dom";
+import style from "./Home.module.css";
+
+interface Game {
+	id: number;
+	title: string;
+	trademark: boolean;
+	price: number;
+	cover: string[];
+	description: string;
+	descriptionImage: string;
+	isNewGame: true;
+	backgroundImage: string;
+}
+
+interface Slide {
+	id: number;
+	title: string;
+	description: string;
+	background: string;
+}
 
 const Home = () => {
-	const { games, slides } = useLoaderData();
+	const { games, slides } = useLoaderData() as { games: Game[]; slides: Slide[] };
 
 	return (
 		<div className={style.app}>
 			<header className={style.hero}>
 				<h6>AWARDED AND RECOMMENDED</h6>
 				<Slider
-					initSlide={(el) => {
+					initSlide={(el: any) => {
 						document.body.style.backgroundImage = `url(${
-							slides.find((slide) => slide.id === el.activeIndex + 1).background
+							slides.find((slide) => slide.id === el.activeIndex + 1)?.background
 						})`;
 					}}
 				>

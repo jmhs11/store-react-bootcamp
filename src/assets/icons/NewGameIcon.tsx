@@ -1,4 +1,10 @@
-const NewGameIcon = (props) => {
+import { FC } from "react";
+
+type IconProps = {
+	className?: string;
+};
+
+const NewGameIcon: FC<IconProps> = (props) => {
 	return (
 		<svg
 			{...props}
