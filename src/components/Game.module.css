@@ -1,0 +1,37 @@
+.game {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+}
+
+.cover {
+	max-width: 100%;
+}
+
+.infoWrapper {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.info {
+	overflow: hidden;
+}
+
+.info > * {
+	margin: 0;
+}
+
+.title {
+	font-size: 1.25rem;
+	white-space: nowrap;
+	max-width: 250px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+.price {
+	font-size: 0.9375rem;
+	line-height: 2.4;
+	opacity: 0.6;
+}

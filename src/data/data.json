@@ -1,0 +1,238 @@
+{
+	"games": [
+		{
+			"id": 1,
+			"title": "Horizon Zero Dawn",
+			"trademark": true,
+			"price": 49.95,
+			"cover": [
+				"/images/horizon-zero-dawn.png",
+				"/images/horizon-zero-dawn@2x.png 2x",
+				"/images/horizon-zero-dawn@3x.png 3x"
+			],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": true,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 2,
+			"title": "God of War",
+			"trademark": true,
+			"price": 149.95,
+			"cover": ["/images/god-of-war.png", "/images/god-of-war@2x.png 2x", "/images/god-of-war@3x.png 3x"],
+			"description": "Kratos, que ha dejado atrás el mundo de los dioses, deberá adaptarse a tierras que no le son familiares, afrontar peligros inesperados y aprovechar una segunda oportunidad de ejercer como padre. Junto a su hijo Atreus se aventurará en lo más profundo e inclemente de las tierras de Midgard y luchará por culminar una búsqueda hondamente personal.\n• Viaja a un mundo oscuro y elemental de temibles criaturas directamente extraído de la mitología nórdica.\n• Vence a tus enemigos en encarnizados combates cuerpo a cuerpo donde el pensamiento táctico y la precisión letal te darán la ventaja.\n• Descubre una historia apasionante y emocional en la que Kratos se verá obligado a controlar la ira que tanto lo ha caracterizado.",
+			"descriptionImage": "/images/god-of-war-description.png",
+			"isNewGame": true,
+			"backgroundImage": "/images/god-of-war-background.png"
+		},
+		{
+			"id": 3,
+			"title": "Red Dead Redemption 2",
+			"trademark": true,
+			"price": 189.95,
+			"cover": [
+				"/images/red-dead-redemption-2.png",
+				"/images/red-dead-redemption-2@2x.png 2x",
+				"/images/red-dead-redemption-2@3x.png 3x"
+			],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": false,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 4,
+			"title": "The Witcher 3: Wild Hunt",
+			"trademark": true,
+			"price": 39.95,
+			"cover": ["/images/the-witcher-3.png", "/images/the-witcher-3@2x.png 2x", "/images/the-witcher-3@3x.png 3x"],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": true,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 5,
+			"title": "Hogwarts Legacy",
+			"trademark": false,
+			"price": 49.95,
+			"cover": [
+				"/images/hogwarts-legacy.png",
+				"/images/hogwarts-legacy@2x.png 2x",
+				"/images/hogwarts-legacy@3x.png 3x"
+			],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": false,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 6,
+			"title": "Final Fantasy XVI",
+			"trademark": false,
+			"price": 149.95,
+			"cover": [
+				"/images/final-fantasy-xvi.png",
+				"/images/final-fantasy-xvi@2x.png 2x",
+				"/images/final-fantasy-xvi@3x.png 3x"
+			],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": false,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 7,
+			"title": "Kena: Bridge of Spirits",
+			"trademark": false,
+			"price": 189.95,
+			"cover": [
+				"/images/kena-bridge-of-spirits.png",
+				"/images/kena-bridge-of-spirits@2x.png 2x",
+				"/images/kena-bridge-of-spirits@3x.png 3x"
+			],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": true,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 8,
+			"title": "Goodbye Volcano High",
+			"trademark": false,
+			"price": 39.95,
+			"cover": [
+				"/images/goodbye-volcano-high.png",
+				"/images/goodbye-volcano-high@2x.png 2x",
+				"/images/goodbye-volcano-high@3x.png 3x"
+			],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": false,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 9,
+			"title": "GhostWire: Tokyo",
+			"trademark": false,
+			"price": 49.95,
+			"cover": [
+				"/images/ghostwire-tokyo.png",
+				"/images/ghostwire-tokyo@2x.png 2x",
+				"/images/ghostwire-tokyo@3x.png 3x"
+			],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "",
+			"isNewGame": false,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 10,
+			"title": "Horizon: Forbidden West",
+			"trademark": false,
+			"price": 149.95,
+			"cover": [
+				"/images/horizon-forbidden-west.png",
+				"/images/horizon-forbidden-west@2x.png 2x",
+				"/images/horizon-forbidden-west@3x.png 3x"
+			],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": true,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 11,
+			"title": "Bugsnax",
+			"trademark": false,
+			"price": 189.95,
+			"cover": ["/images/bugsnax.png", "/images/bugsnax@2x.png 2x", "/images/bugsnax@3x.png 3x"],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": false,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 12,
+			"title": "Resident Evil Village",
+			"trademark": false,
+			"price": 39.95,
+			"cover": [
+				"/images/resident-evil-village.png",
+				"/images/resident-evil-village@2x.png 2x",
+				"/images/resident-evil-village@3x.png 3x"
+			],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": false,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 13,
+			"title": "Deathloop",
+			"trademark": false,
+			"price": 49.95,
+			"cover": ["/images/deathloop.png", "/images/deathloop@2x.png 2x", "/images/deathloop@3x.png 3x"],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": false,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 14,
+			"title": "Returnal",
+			"trademark": false,
+			"price": 149.95,
+			"cover": ["/images/returnal.png", "/images/returnal@2x.png 2x", "/images/returnal@3x.png 3x"],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": false,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 15,
+			"title": "Jett: The Far Shore",
+			"trademark": false,
+			"price": 189.95,
+			"cover": [
+				"/images/jett-the-far-shore.png",
+				"/images/jett-the-far-shore@2x.png 2x",
+				"/images/jett-the-far-shore@3x.png 3x"
+			],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": false,
+			"backgroundImage": "/images/gradient.png"
+		},
+		{
+			"id": 16,
+			"title": "God of War: Ragnarok",
+			"trademark": false,
+			"price": 39.95,
+			"cover": [
+				"/images/god-of-war-ragnarok.png",
+				"/images/god-of-war-ragnarok@2x.png 2x",
+				"/images/god-of-war-ragnarok@3x.png 3x"
+			],
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus. Donec mi tellus, egestas at faucibus et, euismod eu erat. Integer commodo tortor sed sapien luctus tempus. Proin mollis lectus lectus. Duis venenatis posuere iaculis. In dapibus ligula vitae ante luctus luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ante lorem, semper sed finibus id, rhoncus quis ex. Sed dolor lorem, dapibus sodales semper eu, porttitor eu sem. Phasellus auctor mauris vitae ultricies pellentesque. Nunc quis lorem eget metus malesuada convallis. Proin ut arcu malesuada, accumsan risus ac, ornare ex. Curabitur convallis eros et diam cursus, a finibus.",
+			"descriptionImage": "/images/placeholder.png",
+			"isNewGame": false,
+			"backgroundImage": "/images/gradient.png"
+		}
+	],
+	"slides": [
+		{
+			"id": 1,
+			"title": "League of Legends",
+			"description": "League of Legends is a fast-paced, competitive online game that blends the speed and intensity of an RTS with RPG elements.",
+			"background": "/images/league-of-legends-background.png"
+		},
+		{
+			"id": 2,
+			"title": "God of War",
+			"description": "Cras lacinia, nibh eu tincidunt gravida, velit diam luctus diam, at consectetur ex nulla et sapien. Duis posuere justo non iaculis cursus.",
+			"background": "/images/god-of-war-background.png"
+		}
+	]
+}
