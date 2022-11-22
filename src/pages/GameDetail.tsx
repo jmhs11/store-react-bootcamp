@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { Link, ScrollRestoration, useLoaderData } from "react-router-dom";
 import GoBackIcon from "../assets/icons/GoBackIcon";
 import NewGameIcon from "../assets/icons/NewGameIcon";
-import Button from "../components/Button";
+import Button from "../components/Link";
 import style from "./GameDetail.module.css";
 
 const GameDetail = () => {
@@ -12,9 +12,7 @@ const GameDetail = () => {
 		document.body.style.backgroundImage = `url(${game.backgroundImage})`;
 	};
 
-	useEffect(() => {
-		setBackground();
-	}, []);
+	useEffect(setBackground, []);
 
 	return (
 		<>
@@ -37,7 +35,7 @@ const GameDetail = () => {
 					<Button>INSTALL GAME</Button>
 				</div>
 				<div className={style.description}>
-					<img src={game.descriptionImage} alt="" />
+					<img src={game.descriptionImage} alt={game.title} />
 					<div>
 						{game.description.split("\n").map((p: string, index: number) => {
 							return <p key={index}>{p}</p>;
@@ -45,11 +43,7 @@ const GameDetail = () => {
 					</div>
 				</div>
 			</div>
-			<ScrollRestoration
-				getKey={(location, matches) => {
-					return location.key;
-				}}
-			/>
+			<ScrollRestoration getKey={(location, matches) => location.key} />
 		</>
 	);
 };

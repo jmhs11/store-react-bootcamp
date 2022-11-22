@@ -21,6 +21,10 @@ const router = createBrowserRouter([
 		loader: loaderGame,
 		errorElement: <NotFound />,
 	},
+	{
+		path: "*",
+		element: <NotFound />,
+	},
 ]);
 
 ReactDOM.createRoot(document.getElementById("root") as Element).render(

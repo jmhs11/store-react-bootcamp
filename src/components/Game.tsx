@@ -1,6 +1,6 @@
 import { FC } from "react";
-import Button from "./Button";
 import style from "./Game.module.css";
+import Button from "./Link";
 
 type GameProps = {
 	id: number;
@@ -13,7 +13,7 @@ type GameProps = {
 const Game: FC<GameProps> = ({ id, title, trademark, cover, price }) => {
 	return (
 		<article className={style.game}>
-			<img className={style.cover} src={cover[0]} srcSet={cover.join(",")} alt="" />
+			<img className={style.cover} src={cover[0]} srcSet={cover.join(",")} alt={title} />
 			<div className={style.infoWrapper}>
 				<div className={style.info}>
 					<h4 className={style.title} title={title}>

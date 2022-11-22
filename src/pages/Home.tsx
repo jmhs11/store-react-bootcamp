@@ -1,8 +1,8 @@
 import { useLoaderData } from "react-router-dom";
 import { SwiperSlide } from "swiper/react";
-import Button from "../components/Button";
 import Game from "../components/Game";
 import Grid from "../components/Grid";
+import Button from "../components/Link";
 import Slider from "../components/Slider";
 import style from "./Home.module.css";
 
